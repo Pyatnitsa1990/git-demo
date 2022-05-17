@@ -6,8 +6,5 @@ fields and lines
 shows and flowers
 wall and sit
 
-123
-fields and lines
-shows and flowers
-wall and sit
+------------
 
